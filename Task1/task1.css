@@ -1,0 +1,17 @@
+#tabs{
+    width: 700px;
+    height: 700px;
+    border: 1px solid black;
+    background: rgb(138, 138, 118);
+    text-align: center;
+    color: pink;
+}
+.buttonTabs{
+    background: grey;
+    display: inline;
+    transform: rotate(0.7);
+}
+.buttonTabs:hover{
+    background: black;
+}
+
